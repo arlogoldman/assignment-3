@@ -1,0 +1,101 @@
+body{
+  background: linear-gradient(white,#4fff90);
+    color: black;
+}
+
+.title{
+  padding-left: 15px;
+  padding-top: 5px;
+  font-family: helvetica;
+  font-weight: bolder;
+  font-size: 50px;
+  text-align: center;
+  color: #4fff90;
+}
+.one{
+  border: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding: 15px;
+  color: #4fff90;
+}
+
+.two{
+  border: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  color: #67ff9f;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+}
+
+.three{
+  border: solid;
+  border-width: 6px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+  font-family: 'Pinyon Script', cursive;
+  color: #8cffb7;
+}
+
+.four{
+  border: solid;
+  border-width: 12px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+font-family: 'Pinyon Script', cursive;
+  color: #87ffb4;
+}
+
+.five{
+  border: solid;
+  border-width: 24px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+  color: #87ffb4;
+}
+
+.six{
+  border: solid;
+  border-width: 48px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+  color: #ebfcf1;
+}
+
+.seven{
+  border: solid;
+  border-width: 96px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+  color: #f2f7f4;
+}
+
+.eight{
+  border: solid;
+  border-width: 192px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 30px;
+  color: white;
+}

@@ -1,0 +1,26 @@
+
+body {
+    padding:10px;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 60px;
+    letter-spacing: 0px;
+    height: 100vh;
+    color: #009;
+    background-color: #a4d1ff;
+    line-height: 63px;
+    font-style: italic;
+}
+
+.title{
+  background-color: red;
+  font-size: 80px;
+  width: 88%;
+  color: white;
+  letter-spacing: 0px;
+  padding-left: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 75px;
+  font-style: normal;
+  font-weight: bolder;
+}

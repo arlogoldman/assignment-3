@@ -1,0 +1,18 @@
+.title{
+  font-style: italic;
+}
+
+.index{
+  position: absolute;
+  border: solid white 5px;
+  margin-left: 1px;
+  padding-top: 1px;
+  font-family: helvetica;
+  font-size: 100px;
+  padding-left: 100px;
+  background-color: black;
+  color: white;
+
+  height: 1890px;
+  width: 91%;
+}

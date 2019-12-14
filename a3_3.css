@@ -1,0 +1,26 @@
+body{
+  margin: 50px;
+  padding: 50px;
+  background-image: linear-gradient(to left,#ffa100 , #ff0000);
+}
+
+h1{
+  background-image: linear-gradient(to right, #ffa100, #ff0000);
+  -webkit-background-clip:text;
+  background-clip: text;
+  color: transparent;
+  font-size: 50px;
+  font-family: helvetica;
+  letter-spacing: 40px;
+  font-style: center;
+}
+
+p{
+  background-image: linear-gradient(to right, #ffa100, #ff0000);
+  -webkit-background-clip:text;
+  background-clip: text;
+  color: transparent;
+  font-size: 30px;
+  letter-spacing: 20px;
+  font-family: helvetica;
+}

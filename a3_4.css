@@ -1,0 +1,32 @@
+body{
+    background: radial-gradient(#100,#900,#500);
+    height: 1000px;
+    color: white;
+    font-family: arial;
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.h2{
+  font-size: 60px;
+  font-style: normal;
+  border: solid;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 15px;
+  width: .55%;
+  color:white;
+  margin-left: 40px;
+  font-family: arial;
+  font-weight: 10;
+}
+
+.ul{
+  color: white;
+}
+
+.body{
+  margin-left: 50px;
+}

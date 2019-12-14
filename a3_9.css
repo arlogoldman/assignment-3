@@ -1,0 +1,38 @@
+body {
+
+    border: solid;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 50px;
+    padding: 40px;
+    border-color: white;
+    background: linear-gradient(10deg,black,#f5f0d3, #b500ff);
+    background-size: 20%;
+    animation: gradient 2s ease infinite;
+    font-family: helvetica;
+    font-size: 30px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+    margin-left: 60px;
+    font-weight: bolder;
+
+}
+
+.title{
+  font-size: 70px;
+  font-family: helvetica;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+@keyframes gradient {
+    50% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 0%;
+    }
+
+}
